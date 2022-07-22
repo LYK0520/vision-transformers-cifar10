@@ -1,0 +1,30 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-15T07:16:18.923282",
+    "startedAt": "2022-05-15T07:16:14.951128",
+    "docker": null,
+    "gpu": "Quadro K6000",
+    "gpu_count": 1,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [
+        "--lr",
+        "1e-4",
+        "--aug",
+        "--n_epochs",
+        "200"
+    ],
+    "state": "running",
+    "program": "train_cifar10.py",
+    "codePath": "train_cifar10.py",
+    "git": {
+        "remote": "https://github.com/kentaroy47/vision-transformers-cifar10.git",
+        "commit": "cfd26767a051094b5bf43029b8b2787ebf8000bf"
+    },
+    "email": "2091109044@qq.com",
+    "root": "E:/college/519/VIT/vision-transformers-cifar10",
+    "host": "LYK\u2018sDesktop",
+    "username": "Sakura Cat",
+    "executable": "E:\\Anaconda\\envs\\vitpy\\python.exe"
+}
